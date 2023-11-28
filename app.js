@@ -24,5 +24,14 @@
 // let totalArea = 6 * calculateArea(5, 7)
 
 // console.log(totalArea)
+//if
+
+let age = 15;
+
+if (age >= 18) {
+    console.log('Hello');
+}
+
+
 
 
